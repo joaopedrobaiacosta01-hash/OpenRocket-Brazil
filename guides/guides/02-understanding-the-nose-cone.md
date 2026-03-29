@@ -261,4 +261,4 @@ Para adicionar no OpenRocket:
 ------------------------------------------------------------------------------------------
 
 
-*Next guide: [03 - Rocket Body & Fins](03-body-and-fins.md)* / Próximo guia: [03 - Corpo e Aletas do Foguete](03-body-and-fins.md)*
+*Next guide: [03 - Rocket Body ](03-body.md)* / Próximo guia: [03 - Corpo do Foguete](03-body.md)*
