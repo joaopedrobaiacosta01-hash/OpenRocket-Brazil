@@ -16,7 +16,10 @@ When you open the nose cone component, OpenRocket will suggest
 pre-defined models. **Close this window.** Those models are designed
 for solid-propellant rockets with conventional body tubes — not PET
 bottle rockets, which have different dimensions and attachment methods.
-We will build our own from scratch.
+We will build our own from scratch. 
+
+<img width="670" height="670" alt="image" src="https://github.com/user-attachments/assets/bad74e46-5ce1-4dc7-abef-1defd8c5f029" />
+
 
 ### Measuring your nose cone
 Before configuring anything in OpenRocket, measure your physical nose
@@ -40,6 +43,9 @@ Choose your shape based on your own test results and altitude records.
 - **Parabolic** — good general performance
 
 Each shape has a description on the right side of the configuration window.
+
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/1a479554-ae87-48b5-a27d-3795c1e9c3ae" />
+
 
 ------------------------------------------------------------------------------------------
 
@@ -80,6 +86,9 @@ they are designed for solid-propellant rockets. Use only:
 If your material is not listed, calculate its density and create a
 custom material in OpenRocket.
 
+<img width="330" height="630" alt="image" src="https://github.com/user-attachments/assets/8246360a-75df-4ecf-ad55-0c6ef239921f" />
+
+
 ------------------------------------------------------------------------------------------
 
 
@@ -95,6 +104,9 @@ Use this tab to manually enter your **real nose cone mass** — the
 value calculated automatically by OpenRocket from dimensions alone
 is often imprecise. You can also manually override the CG position
 to run experimental simulations.
+
+<img width="322" height="97" alt="image" src="https://github.com/user-attachments/assets/d0cd2acb-7027-4a75-a834-e9afdfba079e" />
+
 
 ------------------------------------------------------------------------------------------
 
@@ -113,6 +125,8 @@ To add it in OpenRocket:
 > 💡 Adjust this value across multiple simulations to find the
 > optimal nose weight for your CG target.
 
+<img width="363" height="338" alt="image" src="https://github.com/user-attachments/assets/04975e5a-b6a3-4727-8656-9ca32ca108ef" />
+
 ------------------------------------------------------------------------------------------
 
 
@@ -122,7 +136,8 @@ To add it in OpenRocket:
 O OpenRocket é um simulador — não espere resultados perfeitamente
 realistas. Seu verdadeiro poder está em te permitir **testar mudanças
 pequenas, médias ou drásticas** no seu projeto antes de construir
-qualquer coisa fisicamente.
+qualquer coisa fisicamente. 
+
 
 ### Não use a biblioteca pré-definida
 Ao abrir o componente de ogiva, o OpenRocket vai sugerir modelos
@@ -130,6 +145,9 @@ pré-definidos. **Feche essa janela.** Esses modelos são projetados
 para foguetes de propulsão sólida com corpos tubulares convencionais
 — não para foguetes de garrafa PET, que têm dimensões e formas de
 encaixe diferentes. Vamos montar a nossa do zero.
+
+<img width="670" height="670" alt="image" src="https://github.com/user-attachments/assets/bad74e46-5ce1-4dc7-abef-1defd8c5f029" />
+
 
 ### Medindo sua ogiva
 Antes de configurar qualquer coisa no OpenRocket, meça sua ogiva
@@ -153,6 +171,10 @@ registradas. **Não recomendamos o uso de cônicas.** As mais comuns são:
 - **Parabólica** — bom desempenho geral
 
 Cada forma tem uma descrição no lado direito da janela de configuração.
+
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/1a479554-ae87-48b5-a27d-3795c1e9c3ae" />
+
+
 
 ------------------------------------------------------------------------------------------
 
@@ -194,6 +216,9 @@ Use apenas:
 Se o seu material não estiver na lista, calcule sua densidade e crie
 um material personalizado no OpenRocket.
 
+<img width="330" height="630" alt="image" src="https://github.com/user-attachments/assets/8246360a-75df-4ecf-ad55-0c6ef239921f" />
+
+
 ------------------------------------------------------------------------------------------
 
 
@@ -209,6 +234,8 @@ Use esta aba para inserir manualmente a **massa real da sua ogiva** —
 o valor calculado automaticamente pelo OpenRocket a partir das dimensões
 costuma ser impreciso. Você também pode sobrescrever a posição do CG
 para rodar simulações experimentais.
+
+<img width="322" height="97" alt="image" src="https://github.com/user-attachments/assets/d0cd2acb-7027-4a75-a834-e9afdfba079e" />
 
 ------------------------------------------------------------------------------------------
 
@@ -227,6 +254,9 @@ Para adicionar no OpenRocket:
 
 > 💡 Ajuste esse valor em múltiplas simulações para encontrar o
 > peso ideal de acordo com o seu CG alvo.
+
+<img width="363" height="338" alt="image" src="https://github.com/user-attachments/assets/04975e5a-b6a3-4727-8656-9ca32ca108ef" />
+
 
 ------------------------------------------------------------------------------------------
 
