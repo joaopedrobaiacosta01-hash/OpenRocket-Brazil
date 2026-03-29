@@ -122,8 +122,7 @@ To add it in OpenRocket:
 4. Enter the mass in grams that matches your real nose weight
 5. Length and diameter fields won't affect simulation — focus on mass
 
-> 💡 Adjust this value across multiple simulations to find the
-> optimal nose weight for your CG target.
+> 💡 Adjust this value in multiple simulations to find the ideal weight according to your target body mass (CG) and center of gravity (CP) (stability itself, which I will discuss later)..
 
 <img width="363" height="338" alt="image" src="https://github.com/user-attachments/assets/04975e5a-b6a3-4727-8656-9ca32ca108ef" />
 
@@ -253,7 +252,8 @@ Para adicionar no OpenRocket:
 5. Comprimento e diâmetro não afetam a simulação — foque na massa
 
 > 💡 Ajuste esse valor em múltiplas simulações para encontrar o
-> peso ideal de acordo com o seu CG alvo.
+> peso ideal de acordo com o seu CG e CP (estabilidade em si, que vai ser
+> falado mais a frente) alvo.
 
 <img width="363" height="338" alt="image" src="https://github.com/user-attachments/assets/04975e5a-b6a3-4727-8656-9ca32ca108ef" />
 
