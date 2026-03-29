@@ -9,7 +9,8 @@
 ### What is OpenRocket?
 OpenRocket is a free and open-source rocket simulator used by students 
 and engineers worldwide to design and simulate rocket flights before 
-physically building them.
+physically building them. It can be used for professional
+purposes as well as for amateurs, which will be our case ;]
 
 ### Installation
 1. Access [openrocket.info](https://openrocket.info)
@@ -26,7 +27,8 @@ physically building them.
 ### O que é o OpenRocket?
 OpenRocket é um simulador de foguetes gratuito e open-source usado por 
 estudantes e engenheiros no mundo todo para projetar e simular voos de 
-foguetes antes de construí-los fisicamente.
+foguetes antes de construí-los fisicamente. Pode ser usado para a área profissional
+como para amadores, que vai ser o nosso caso ;]
 
 ### Instalação
 1. Acesse [openrocket.info](https://openrocket.info)
