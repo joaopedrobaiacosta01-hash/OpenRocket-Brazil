@@ -192,3 +192,58 @@ Notice how it has **multiple curves**. Each one needs to be carefully
 measured and imported. Here is how the same bottle looks in OpenRocket:
 
 <img width="877" height="196" alt="image" src="https://github.com/user-attachments/assets/ffd635da-1b54-451f-8693-d954769827a4" />
+
+Notice the multiple transitions connected to each other. Some details
+may still need adjustment — but that's part of the process.
+
+The key rule is simple:
+> **Every transition and body tube section must connect seamlessly
+> to the next one.** Diameter mismatches will break your simulation.
+
+Since every bottle is different, I can't give you exact values here —
+but use the same measuring techniques from the simple method, applied
+to each individual curve and section of your bottle.
+
+If you want to go this far, go for it. The more precise your model,
+the more useful your simulation data will be.
+
+> 📎 Download the example 2L bottle file here:
+> [Bottle_2L_example.ork](../simulations/Bottle_2L_example.ork)
+
+---
+
+### Português
+
+Agora que você dominou o método simples, vamos mais fundo.
+
+Se você seguiu tudo até aqui e tem mais de uma garrafa em mãos,
+esta parte não será difícil — mas exigirá **medições precisas de
+cada curva e seção** da sua garrafa.
+
+Usaremos esta garrafa como exemplo:
+
+<img width="900" height="518" alt="image" src="https://github.com/user-attachments/assets/6318bb69-fcf2-448b-9c41-2a72c6b2dc1f" />
+
+Perceba que ela tem **várias curvas**. Cada uma precisa ser
+cuidadosamente medida e importada. Veja como essa mesma garrafa
+fica no OpenRocket:
+
+<img width="877" height="196" alt="image" src="https://github.com/user-attachments/assets/ffd635da-1b54-451f-8693-d954769827a4" />
+
+Perceba as várias transições conectadas entre si. Alguns detalhes
+ainda podem mudar — mas isso faz parte do processo.
+
+A regra principal é simples:
+> **Cada transição e tubo do corpo deve se conectar perfeitamente
+> ao próximo.** Diferenças de diâmetro entre seções quebrarão
+> sua simulação.
+
+Como cada garrafa é diferente, não posso te dar valores exatos aqui
+— mas use as mesmas técnicas de medição do método simples, aplicadas
+a cada curva e seção individual da sua garrafa.
+
+Se quiser chegar até esse nível de detalhe, vá em frente. Quanto
+mais preciso for o seu modelo, mais úteis serão os dados da simulação.
+
+> 📎 Baixe o arquivo de exemplo da garrafa 2L aqui:
+> [Bottle_2L_example.ork](../simulations/Bottle_2L_example.ork)
